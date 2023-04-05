@@ -28,3 +28,11 @@ r=10
 obwod = 2 * math.pi * r
 pole = math.pi* r * 2
 print("Obwod koła wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) + ".")
+
+#romb
+a=10
+h=15
+
+pole= a*h
+obwod = 4*a
+print("Obwod rombu wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) + ".")
