@@ -1,4 +1,5 @@
 # trojkat
+import math
 
 a = 10
 b = 20
@@ -19,3 +20,10 @@ obwod = 2*a+2*b
 pole = a*b
 print("Obwod prostokąta wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) + ".")
 
+#koło
+
+r=10
+
+obwod = 2 * math.pi * r
+pole = math.pi* r * 2
+print("Obwod koła wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) + ".")
