@@ -20,6 +20,7 @@ obwod = 2*a+2*b
 pole = a*b
 print("Obwod prostokąta wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) + ".")
 
+
 #koło
 
 r=10
