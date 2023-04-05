@@ -36,3 +36,15 @@ h=15
 pole= a*h
 obwod = 4*a
 print("Obwod rombu wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) + ".")
+
+#trapez
+
+a=5
+b=7
+c=4
+d=4
+h=8
+
+pole= ((a+b)*h)/2
+obwód = a+b+c+d
+print("Obwod trapezu wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) + ".")
