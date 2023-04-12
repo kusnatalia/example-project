@@ -1,8 +1,6 @@
-#zadanie 1.5
-liczba = 3
-potega = 4
+#zadanie 1.6
+ciag_znakow = "edbw(hdakqas(skqskahb))adwndwb(wgwidn()dsqwhjdw)"
+liczba_nawiasow_otwierajacych = ciag_znakow.count("(")
 
-wynik = liczba ** potega
-
-print("Wynik wynosi:", wynik)
+print("Liczba nawiasow otwierajacych wynosi:", liczba_nawiasow_otwierajacych)
 
