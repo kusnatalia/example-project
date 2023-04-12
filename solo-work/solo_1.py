@@ -13,3 +13,8 @@ student = input("Natalia")
 
 print("Hello Natalia")
 
+# zadanie 1.3
+studenci = ["Ania", "Kuba", "Piotr", "Jan"]
+
+liczba_studentow = len(studenci)
+print("Liczba studentow wynosi:", liczba_studentow)
